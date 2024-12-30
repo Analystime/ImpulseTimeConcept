@@ -1,9 +1,11 @@
-[Content_ITA2Earn.pdf](https://github.com/user-attachments/files/18272708/Content_ITA2Earn.pdf)
-«ITA2Earn.pdf»[BlocksTablesSchemes.pdf](https://github.com/user-attachments/files/18273354/BlocksTablesSchemes.pdf)
+
+«ITA2Earn.pdf» + appendix
+[BlocksTablesSchemes.pdf](https://github.com/user-attachments/files/18273354/BlocksTablesSchemes.pdf)
 
 Назначение Программы - анализ потока дискретных данных любой переменной величины (включая финансовые данные) в реальном времени. Базовый метод анализа - это исследование взаимного влияния Уровней Времени (Time Levels Mutual Impact). В терминах квантовой механики данное явление изучается как «Фазовая Прецессия». Данная программа фиксирует и (впервые) визуализирует импульсные структуры в каждом интервале времени, что позволяет смотреть по новому на анализ технических данных.
 
-Содержание Файла "ITA2Earn":
+Содержание Файла "ITA2Earn": [Content_ITA2Earn.pdf](https://github.com/user-attachments/files/18272708/Content_ITA2Earn.pdf)
+
 Page 1 - Часть 1. О терминологии. ImpulseTime Context.
 
 Page 4 - Часть 2. Адаптация. From Impulse-Time to Space-Time.
@@ -13,7 +15,7 @@ Page 9 - Часть 3. Module №1, ”Terminology and background information”
 Page 15 - Часть 3. Модуль № 2, Подготовка Данных. “Data Setting Module, Preparation Module”.
 
 Admin Control. 
-1. About Impulse and Delta.
+About Impulse and Delta.
 Page 16 - 2. Входные данные. Data.
 Page 17 - 3. Выходные первичные данные. Primary Data.
 Page 21 - 4. “Analystime Panel for Control Table Primary Data”, “APCTPD”.
@@ -21,7 +23,6 @@ Page 22 - 5. Control Table Primary Data, Таблица Контроля Пер�
 Page 25 - 6. “Auto”. 7. “Data OK”.
 
 Page 26 - Часть 3. Модуль №3 Графичеcкие Стили. “Graph Styles Module”. 
-
 Interface, Algorithms, Integration.
 Page 27 - 1. Duplicated Time Scale Сonstruction.
 Page 29 - 2. Stripe Transformation for Impulse Chart and Timebars Charts.
