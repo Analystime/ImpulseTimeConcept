@@ -1,5 +1,6 @@
 [Content_ITA2Earn.pdf](https://github.com/user-attachments/files/18272708/Content_ITA2Earn.pdf)
 «ITA2Earn.pdf»
+
 Содержание Файла
 Page 1 - Часть 1. О терминологии. ImpulseTime Context.
 Page 4 - Часть 2. Адаптация. From Impulse-Time to Space-Time.
