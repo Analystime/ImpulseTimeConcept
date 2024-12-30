@@ -1,5 +1,6 @@
 [Content_ITA2Earn.pdf](https://github.com/user-attachments/files/18272708/Content_ITA2Earn.pdf)
-«ITA2Earn.pdf»
+«ITA2Earn.pdf»[BlocksTablesSchemes.pdf](https://github.com/user-attachments/files/18273354/BlocksTablesSchemes.pdf)
+
 
 Содержание Файла
 Page 1 - Часть 1. О терминологии. ImpulseTime Context.
